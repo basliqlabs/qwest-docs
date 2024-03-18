@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqwest_docs=self.webpackChunkqwest_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"placeholder","permalink":"/qwest-docs/fa/blog/placeholder","unlisted":false}]}')}}]);
