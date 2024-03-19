@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkqwest_docs=self.webpackChunkqwest_docs||[]).push([[881],{6113:e=>{e.exports=JSON.parse('{"permalink":"/qwest-docs/fa/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

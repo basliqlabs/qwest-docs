@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basliqlabs.github.io/qwest-docs/fa/blog</id>
     <title>Qwest Docs Blog</title>
-    <updated>2024-03-18T17:36:51.000Z</updated>
+    <updated>2024-03-19T12:02:23.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://basliqlabs.github.io/qwest-docs/fa/blog"/>
     <subtitle>Qwest Docs Blog</subtitle>
     <icon>https://basliqlabs.github.io/qwest-docs/fa/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[placeholder]]></title>
+        <title type="html"><![CDATA[جاخالی]]></title>
         <id>https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder</id>
         <link href="https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder"/>
-        <updated>2024-03-18T17:36:51.000Z</updated>
-        <summary type="html"><![CDATA[stuff]]></summary>
-        <content type="html"><![CDATA[<p>stuff</p>]]></content>
+        <updated>2024-03-19T12:02:23.000Z</updated>
+        <summary type="html"><![CDATA[مطالب]]></summary>
+        <content type="html"><![CDATA[<p>مطالب</p>]]></content>
         <author>
-            <name>Ata!</name>
+            <name>عطا!</name>
             <uri>https://github.com/atareversei</uri>
         </author>
         <category label="test" term="test"/>

@@ -4,17 +4,17 @@
         <title>Qwest Docs Blog</title>
         <link>https://basliqlabs.github.io/qwest-docs/fa/blog</link>
         <description>Qwest Docs Blog</description>
-        <lastBuildDate>Mon, 18 Mar 2024 17:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 12:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fa</language>
         <item>
-            <title><![CDATA[placeholder]]></title>
+            <title><![CDATA[جاخالی]]></title>
             <link>https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder</link>
             <guid>https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder</guid>
-            <pubDate>Mon, 18 Mar 2024 17:36:51 GMT</pubDate>
-            <description><![CDATA[stuff]]></description>
-            <content:encoded><![CDATA[<p>stuff</p>]]></content:encoded>
+            <pubDate>Tue, 19 Mar 2024 12:02:23 GMT</pubDate>
+            <description><![CDATA[مطالب]]></description>
+            <content:encoded><![CDATA[<p>مطالب</p>]]></content:encoded>
             <category>test</category>
         </item>
     </channel>
