@@ -1,41 +1,26 @@
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Learn About Qwest
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
+import s from './index.module.css'
+import Translate from '@docusaurus/Translate';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      title={`Home`}
+      description="Qwest Docs holds the reports, issues, milestones, ideas, dreams, and software documentation.">
       <main>
+        <section className={`${s.hero} ${s.section}`}>
+          <figure className={s.figure}>
+            <img src='img/logo.png' />
+          </figure>
+          <div className={s.content}>
+            <h1><Translate>Qwest</Translate></h1>
+            <p><Translate>The simplest project management tool ever known to mankind</Translate></p>
+          </div>
+          <Link className={s.specialLink} to='/docs/preliminary/intro'><Translate>Get Started with Qwest</Translate> 🤙</Link>
+        </section>
       </main>
     </Layout>
   );
