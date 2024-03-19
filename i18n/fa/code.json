@@ -203,7 +203,7 @@
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
+    "message": "زبان‌ها",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
@@ -285,5 +285,14 @@
   "theme.unlistedContent.message": {
     "message": "این صفحه فهرست نشده است. موتورهای جستجو آن را ایندکس نمی کنند و فقط کاربرانی که لینک مستقیم دارند می توانند به آن دسترسی داشته باشند.",
     "description": "The unlisted content banner message"
+  },
+  "Qwest": {
+    "message": "کوئست"
+  },
+  "The simplest project management tool ever known to mankind": {
+    "message": "ساده‌ترین ابزار مدیریت پروژه ساخت دست بشر"
+  },
+  "Get Started with Qwest": {
+    "message": "آشنایی با کوئست"
   }
 }

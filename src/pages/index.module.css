@@ -37,11 +37,13 @@
   color: #fff;
   font-weight: bold;
   font-size: 18px;
+  transition: transform 100ms ease-in;
 }
 
 .specialLink:hover {
   text-decoration: none;
   color: #fff;
+  transform: translateY(-3px);
 }
 
 .figure {

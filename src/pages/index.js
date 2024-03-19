@@ -2,6 +2,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import s from './index.module.css'
+import Translate from '@docusaurus/Translate';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -15,10 +16,10 @@ export default function Home() {
             <img src='img/logo.png' />
           </figure>
           <div className={s.content}>
-            <h1>Qwest</h1>
-            <p>The simplest project management tool ever known to mankind</p>
+            <h1><Translate>Qwest</Translate></h1>
+            <p><Translate>The simplest project management tool ever known to mankind</Translate></p>
           </div>
-          <Link className={s.specialLink} to='/docs/preliminary/intro'>Get Started with Qwest 🤙</Link>
+          <Link className={s.specialLink} to='/docs/preliminary/intro'><Translate>Get Started with Qwest</Translate> 🤙</Link>
         </section>
       </main>
     </Layout>
