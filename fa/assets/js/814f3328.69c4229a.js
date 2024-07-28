@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkqwest_docs=self.webpackChunkqwest_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u0645\u0637\u0627\u0644\u0628 \u0627\u062e\u06cc\u0631","items":[{"title":"\u062c\u0627\u062e\u0627\u0644\u06cc","permalink":"/qwest-docs/fa/blog/placeholder","unlisted":false}]}')}}]);

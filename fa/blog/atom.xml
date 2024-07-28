@@ -2,22 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://basliqlabs.github.io/qwest-docs/fa/blog</id>
     <title>Qwest Docs Blog</title>
-    <updated>2024-07-28T13:07:30.000Z</updated>
+    <updated>2024-07-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://basliqlabs.github.io/qwest-docs/fa/blog"/>
     <subtitle>Qwest Docs Blog</subtitle>
     <icon>https://basliqlabs.github.io/qwest-docs/fa/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[جاخالی]]></title>
-        <id>https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder</id>
-        <link href="https://basliqlabs.github.io/qwest-docs/fa/blog/placeholder"/>
-        <updated>2024-07-28T13:07:30.000Z</updated>
-        <summary type="html"><![CDATA[مطالب]]></summary>
-        <content type="html"><![CDATA[<p>مطالب</p>]]></content>
+        <title type="html"><![CDATA[کوئست چرا ساخته شد؟]]></title>
+        <id>https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created</id>
+        <link href="https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[طی این بلاگ پست میخوام توضیح بدم چرا کوئست رو درست کردم.]]></summary>
+        <content type="html"><![CDATA[<p>طی این بلاگ پست میخوام توضیح بدم چرا <code>کوئست</code> رو درست کردم.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="دلیل-اصلی">دلیل اصلی<a href="https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created#%D8%AF%D9%84%DB%8C%D9%84-%D8%A7%D8%B5%D9%84%DB%8C" class="hash-link" aria-label="لینک مستقیم به دلیل اصلی" title="لینک مستقیم به دلیل اصلی">​</a></h2>
+<p>من <strong>چالش</strong> رو دوست دارم.
+دلیل اصلی اینکه این پروژه رو استارت زدم این بود. با خودم گفتم من که مهندسی نرم‌افزار رو دوست دارم، خیلی خوب‌تر نمی‌شد اگه یه برنامه‌ای می‌ساختم که ملت هم ازش استفاده می‌کردن؟ و چون به مدیریت پروژه علاقه داشتم، نتیجه‌اش شد <code>کوئست</code>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="تاثیر">تاثیر<a href="https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created#%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1" class="hash-link" aria-label="لینک مستقیم به تاثیر" title="لینک مستقیم به تاثیر">​</a></h2>
+<p>خیلی از ما برنامه‌نویسا هر روز کد میزنیم، پول ریکو‌ئست میزنیم و کارهای دیگه که نتیجه مستقیمش رو نمی‌بینیم.
+من می‌خوام یه نرم‌افزاری توسعه بدم که کاربردی باشه و بعدش ببینم که مردم ازش واقعا دارن استفاده میکنن و سود میبرن. این حس خیلی بهتری به من میده.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ادغام-کردن-چند-پروژه-دانشگاهی">ادغام کردن چند پروژه دانشگاهی<a href="https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created#%D8%A7%D8%AF%D8%BA%D8%A7%D9%85-%DA%A9%D8%B1%D8%AF%D9%86-%DA%86%D9%86%D8%AF-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C" class="hash-link" aria-label="لینک مستقیم به ادغام کردن چند پروژه دانشگاهی" title="لینک مستقیم به ادغام کردن چند پروژه دانشگاهی">​</a></h2>
+<p>الان که دارم این بلاگ رو مینویسم (1403/05/07) دانشجوی مهندسی کامپیوتر دانشگاه آزاد تبریز هستم. یه روزی با خودم فکر میکردم چی می‌شد اگه به جای پروژه‌های کوچیک بیام و روی یه پروژه بزرگ که هر قسمتیش رو توی یه درسی تکمیل می‌کنم کار کنم؟ و دیدم که خوب می‌شد و همین کار رو هم کردم.</p>
+<p>استادای عزیزی که حرف زدم و اجازه دادن این کار رو انجام بدم:</p>
+<ul>
+<li>تحلیل و طراحی سیستم با استاد کریمی</li>
+<li>مهندسی نرم‌افزار با استاد کریمی</li>
+<li>تحلیل و طراحی پایگاه‌های داده با استاد پیراهش</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="تست-کردن-تکنولوژیهای-مختلف-در-باسلخ-لبز">تست کردن تکنولوژی‌های مختلف در باسلخ لبز<a href="https://basliqlabs.github.io/qwest-docs/fa/blog/why-qwest-was-created#%D8%AA%D8%B3%D8%AA-%DA%A9%D8%B1%D8%AF%D9%86-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C%D9%87%D8%A7%DB%8C-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B3%D9%84%D8%AE-%D9%84%D8%A8%D8%B2" class="hash-link" aria-label="لینک مستقیم به تست کردن تکنولوژی‌های مختلف در باسلخ لبز" title="لینک مستقیم به تست کردن تکنولوژی‌های مختلف در باسلخ لبز">​</a></h2>
+<p>چون تو محیط کار نمی‌شد خیلی از مفاهیم رو تست کرد مجبور بودم روی پروژه‌ای که خودم انجامش میدم خیلی از کارها رو انجام بدم.</p>]]></content>
         <author>
             <name>عطا!</name>
             <uri>https://github.com/atareversei</uri>
         </author>
-        <category label="test" term="test"/>
+        <category label="qwest" term="qwest"/>
     </entry>
 </feed>

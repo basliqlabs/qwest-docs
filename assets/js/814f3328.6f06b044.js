@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqwest_docs=self.webpackChunkqwest_docs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why Qwest Was Created?","permalink":"/qwest-docs/blog/why-qwest-was-created","unlisted":false}]}')}}]);
