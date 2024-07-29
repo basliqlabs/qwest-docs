@@ -15,5 +15,5 @@ sidebar_position: 1
 :::
 
 :::info
-Most verb tenses are present but the matching features are most likely not implemented. We wrote the documentation this way to avoid inconsistency. To check which features are available right now, you can visit the [features table](/docs/main/project-definition/#features).
+Most verb tenses are present but the matching features are most likely not implemented. We wrote the documentation this way to avoid inconsistency. To check which features are available right now, you can visit the [features table](/docs/main/project-definition/features).
 :::
