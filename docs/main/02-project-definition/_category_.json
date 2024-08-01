@@ -1,0 +1,8 @@
+{
+    "label": "Project Definition",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "Mainly what will this app accomplish and why did we decide to develop it."
+    }
+}
