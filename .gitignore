@@ -1,3 +1,6 @@
+.idea
+**/*.bkp
+
 # Dependencies
 /node_modules
 
