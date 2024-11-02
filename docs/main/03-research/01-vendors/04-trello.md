@@ -17,6 +17,17 @@ It would be beneficial to remove the **Recently Viewed** section from the worksp
 
 ## Pricing
 
+Trello offers four types of plans:
+
+1. Free
+2. Standard
+3. Premium
+4. Enterprise
+
+As you move up through the plans, each tier provides more features and greater value. Full details on the features for each plan are available on Trello’s website.
+
+This documentation will focus on the Free plan.
+
 ## Sign Up
 
 ## Create Workspace
