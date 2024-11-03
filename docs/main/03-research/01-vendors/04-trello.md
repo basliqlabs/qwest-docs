@@ -30,6 +30,26 @@ This documentation will focus on the Free plan.
 
 ## Sign Up
 
+To sign up for Trello, you can either click the **Sign Up** button in the top-right corner of the page or go to the **Pricing** section, select the Free plan, and proceed to sign up.
+
+On the sign-up page, you have the option to register manually or use a Google account (or other supported accounts) for a faster process. Here’s how to sign up manually:
+
+1. Enter your email address.
+
+2. Complete the CAPTCHA verification.
+
+3. Before setting a password, Trello will prompt you to create a workspace. A workspace is a shared space where you or your team can collaborate, organize tasks, and share project boards.
+
+4. Trello will then prompt you to invite people to your workspace, emphasizing collaboration. This step is optional, so you can skip it if you’re not ready to add team members.
+
+5. You’ll also be offered a 30-day free trial of Trello Premium.
+
+Once these steps are complete, you’ll be signed up successfully.
+
+- This sign-up process is based on a YouTube tutorial from about a year ago, with only minor changes noticed since then.
+
+- One notable observation is that Trello’s sign-up process sometimes skips the password requirement. I tested this with multiple emails: sometimes it requests a password, but at other times it does not, which raises potential security concerns.
+
 ## Create Workspace
 
 ## Workspace Overview
