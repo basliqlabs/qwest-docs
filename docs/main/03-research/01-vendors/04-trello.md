@@ -50,11 +50,33 @@ Once these steps are complete, you’ll be signed up successfully.
 
 - One notable observation is that Trello’s sign-up process sometimes skips the password requirement. I tested this with multiple emails: sometimes it requests a password, but at other times it does not, which raises potential security concerns.
 
-## Create Workspace
+## Workspace
 
-## Workspace Overview
+After signing up, you’ll be directed to your workspace page, which is straightforward and user-friendly.
 
-## Workspace Settings
+Your workspace is divided into two main sections. Although there’s a right sidebar, it mostly duplicates the features in the left section, so we’ll focus on the left side for clarity.
+
+Starting from the top, you’ll see **Boards**, **Templates**, and **Home**:
+
+- **Boards**: This is the main section where you’ll manage and access your project boards. We’ll dive into the board features in detail later.
+  
+- **Templates**: Here, you can browse a variety of templates organized by category. These templates cover a wide range of project types, including non-technical and non-programming uses.
+
+- **Home**: This page is somewhat redundant, as it only contains two features that are also available on the **Boards** page, offering little additional functionality.
+
+Below these, you’ll find **Workspace Items**, which includes several components:
+
+  - **Boards**: Unlike the top **Boards** section, which displays boards across all workspaces, this section shows only the boards for the current workspace.
+   
+  - **Highlights**: This section displays your highlighted boards, or boards you’ve marked as favorites, for quick access.
+  
+  - **Views**: Workspace-level views, such as **Table** and **Calendar**, are available here. However, these views require a Premium upgrade to access.
+  
+  - **Members**: Here, you can invite people to your workspace via an invite link. You can also add **Guests**—people who are only granted access to specific boards, allowing them to view and edit those boards without joining the full workspace.
+
+  - **Settings**: This section lets you adjust workspace configurations. In the Free plan, options are limited; you can only set workspace visibility to either public or private and link your workspace to **Slack**.
+
+Finally, it’s worth noting that Trello allows you to create multiple workspaces, so you’re not limited to just one, making it easier to organize different projects or teams.
 
 ## Create Board
 
