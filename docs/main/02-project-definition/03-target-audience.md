@@ -3,9 +3,10 @@ sidebar_position: 3
 title: "Target Audience"
 ---
 
-# Target Audience
+# Target audience
 
-:::warning
-TODO: document not ready.  
-This page will have information about our potential target audience and what actions we might take for this.
-:::
+As seen from the goals and characteristics of Qwest in the previous sections, it can be concluded that our estimated target audience groups are but not limited to:
+
+- Iranian businesses and others that face the same limitation and restriction issues
+- Individuals or small startup teams that need a free and powerful solution to their management needs
+- Individuals who need offline management software
