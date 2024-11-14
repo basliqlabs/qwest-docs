@@ -1,41 +1,43 @@
-# Website
+# Qwest docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This project holds the documentation for the Qwest project, using [Docusaurus](https://docusaurus.io/).
 
-### Installation
+## Contributor guide
+There are a few simple guidelines that you have to follow for contributing to this project.
 
-```
-$ yarn
-```
+### Contribution guidelines
+You can contribute to this project in many ways. You can file an issue and let us know about any bugs, typos, or improvements. You can also fork this project, implement the changes, and submit a pull request.
 
-### Local Development
+### Code style and structure
+We are using [Microsoft's writing style guide](https://learn.microsoft.com/en-us/style-guide/welcome/) to write our English documentation.  
+🚧 We are still working on our Persian writing style guide.
 
-```
-$ yarn start
-```
+### Development environment setup
+1. Install [NodeJS LTS](https://nodejs.org/en)
+2. Clone this repository
+3. While inside this repository on your local machine, execute the `npm i` command
+4. To start a local development server to view the changes in a browser window, execute the `npm run start` command
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Branching, pull requests, and commit message
 
-### Build
+For the changes you want to make, create a branch with the following naming convention: `<github-username>/[docs|diagrams]/<document-name>`.  
 
-```
-$ yarn build
-```
+Examples:
+- `atareversei/diagrams/erd`
+- `thisis-mahyar/docs/trello`
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+For commit messages use the convention of `git commit -m "[docs|diagrams|fix|feat|ci|refactor](<feature>): <description> <#issue-number>"`
 
-### Deployment
+Examples:
+- `docs(trello): add summary`
+- `docs(problem-statements,target-audience): fix typos`
+- `diagrams(erd): add new entities`
+- `ci: fix broken pipeline`
+- `feat(homepage): add new about us section`
+- `fix: type issues breaking build`
 
-Using SSH:
+After you are done with making changes, submit a pull request to the `main` branch and ask for a `qwest-core` team member to review the changes.
 
-```
-$ USE_SSH=true yarn deploy
-```
+### Testing
+Before you ask for a review, make sure that your project can be built by using the `npm run build` command.
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
