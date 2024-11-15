@@ -1,6 +1,6 @@
 # Qwest docs
 
-This project holds the documentation for the Qwest project, using [Docusaurus](https://docusaurus.io/).
+This documentation contains information about general engineering discussions and application-specific developer guides.
 
 ## Contributor guide
 There are a few simple guidelines that you have to follow for contributing to this project.
@@ -26,7 +26,7 @@ Examples:
 - `atareversei/diagrams/erd`
 - `thisis-mahyar/docs/trello`
 
-For commit messages use the convention of `git commit -m "[docs|diagrams|fix|feat|ci|refactor](<feature>): <description> <#issue-number>"`
+For commit messages use the convention of `git commit -m "[docs|diagrams|fix|feat|ci|refactor](<scope>): <description> <#issue-number>"`
 
 Examples:
 - `docs(trello): add summary`
@@ -41,3 +41,7 @@ After you are done with making changes, submit a pull request to the `main` bran
 ### Testing
 Before you ask for a review, make sure that your project can be built by using the `npm run build` command.
 
+## Contributors
+- [Ata!](https://github.com/atareversei)
+- [Elahe](https://github.com/ElaheSalahi)
+- [mahyar](https://github.com/thisis-mahyar)
