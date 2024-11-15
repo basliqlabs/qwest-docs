@@ -13,13 +13,18 @@ Trello’s user interface is well-designed, clean, and user-friendly. It’s sim
 
 ### User Experience
 
-The login process is streamlined and intuitive, making it inviting and easy to sign up or log in. However, one concern is that Trello sometimes skips the password requirement when logging in, which raises privacy and security questions.
+The login process is streamlined and intuitive, making it inviting and easy to sign up or log in.
   
-It would be beneficial to remove the **Recently Viewed** section from the workspace. Personally, I think navigation should be straightforward, with a single, clear path to access each board. The multiple ways to navigate to a board can feel redundant and cluttered.
+It would be beneficial to remove the **Recently Viewed** section from the workspace. We think navigation should be straightforward, with a single, clear path to access each board. The multiple ways to navigate to a board can feel redundant and cluttered.
+
+> [!NOTE]
+> Trello sometimes skips the password requirement when logging in, which seems odd.
 
 ![](photos/02-user-experience.jpg)
 
-## Pricing
+## Features
+
+### Pricing
 
 Trello offers four types of plans:
 
@@ -34,7 +39,7 @@ This documentation will focus on the Free plan.
 
 ![](photos/03-pricing.jpg)
 
-## Sign Up
+### Sign Up
 
 To sign up for Trello, you can either click the **Sign Up** button in the top-right corner of the page or go to the **Pricing** section, select the Free plan, and proceed to sign up.
 
@@ -54,11 +59,11 @@ Once these steps are complete, you’ll be signed up successfully.
 
 - This sign-up process is based on a YouTube tutorial from about a year ago, with only minor changes noticed since then.
 
-- One notable observation is that Trello’s sign-up process sometimes skips the password requirement. I tested this with multiple emails: sometimes it requests a password, but at other times it does not, which raises potential security concerns.
+- One notable observation is that Trello’s sign-up process sometimes skips the password requirement. It is tested with multiple emails: sometimes it requests a password, but at other times it does not, which seems odd.
 
 ![](photos/04-signup.jpg)
 
-## Workspace
+### Workspace
 
 After signing up, you’ll be directed to your workspace page, which is straightforward and user-friendly.
 
@@ -70,7 +75,7 @@ Starting from the top, you’ll see **Boards**, **Templates**, and **Home**:
 
 - **Boards**: This is the main section where you’ll manage and access your project boards. We’ll dive into the board features in detail later.
   
-- **Templates**: Here, you can browse a variety of templates organized by category. These templates cover a wide range of project types, including non-technical and non-programming uses.
+- **Templates**: Here, you can browse a variety of templates organized by category. These templates cover a wide range of project types, including non-technical and non-programming usages.
 
 - **Home**: This page is somewhat redundant, as it only contains two features that are also available on the **Boards** page, offering little additional functionality.
 
@@ -88,9 +93,9 @@ Below these, you’ll find **Workspace Items**, which includes several component
 
 Finally, it’s worth noting that Trello allows you to create multiple workspaces, so you’re not limited to just one, making it easier to organize different projects or teams.
 
-## Board
+### Board
 
-### Create Board
+#### Create Board
 
 On your workspace's home page, click on **Create new board**. Then some options will be provided for you:
 
@@ -108,7 +113,7 @@ On your workspace's home page, click on **Create new board**. Then some options 
 
 - Finally, you can click on **Create** or you can **Start with a template** (which we discussed previously).
 
-### Inside the Board
+#### Inside the Board
 
 Welcome to your board’s page! Your workspace panel is still visible on the left, but you can close it if you prefer a cleaner view.
 
@@ -116,7 +121,7 @@ Welcome to your board’s page! Your workspace panel is still visible on the lef
 
 We’ll explore this page from top to bottom, as it’s the most important part of Trello.
 
-#### 1. Workspace panel
+##### 1. Workspace panel
 
 Here, we have the workspace panel again, with a few additional options:
 
@@ -124,13 +129,13 @@ Here, we have the workspace panel again, with a few additional options:
 
 Section | Description
 :- | :-
-*More from Atlassian |  The icon on the far left (a 3x3 grid), which is primarily for advertising other Atlassian products.
+More from Atlassian |  The icon on the far left (a 3x3 grid), which is primarily for advertising other Atlassian products.
 Search bar | Use this to find boards within your workspace.
 Notifications | See reminders, alerts, and other updates here.
 Information | This option leads to a Trello tour, which can be useful if you're new to Trello.
 Account | Access and modify your account settings here.
 
-#### 2. Board panel
+##### 2. Board panel
 
 This section includes options specific to your board:
 
@@ -140,21 +145,25 @@ Section | Description
 :- | :-
 Name | Double-click the board name to rename it.
 Star | Star your board to have it appear at the top of your boards list.
-Change visibility | Has already told.
+Change visibility | Has already been discussed.
 Customize views | The default view is the Kanban board, but Premium users can access additional views like Table, Calendar, Timeline, Dashboard, and Map. Only having the Kanban view can be a disadvantage if you’re looking for more layout options, which might make other tools appealing in comparison.
-Power-Ups | Add features and integrations like Google Drive or Slack to your board. Power-Ups work like extensions. E.g., using GitHub power-up, you can attach branches, commits, etc. directly to your cards.
-Automation | Will be explained later
+Power-Ups | Add features and integrations like Google Drive or Slack to your board. Power-Ups work like extensions. E.g., using GitHub power-up, you can attach branches, commits, and other GitHub features directly to your cards.
+Automation | Will be explained later.
 Filters | Filter cards using options like Members, Due date, Labels, Activity.
 Share | Share your board with others.
 Menu | A menu with options: Description for the board, See the Activity, Comments, Archived Items, Change Workspace, Set Permissions to the Members, Change Background, Automations, Power-Ups, Labels, Stickers, Watch, Email-to-board (add cards via email), Copy board, Print, export, share, Close the board.
 
-#### 3. View
+##### 3. View
 
-The default view here is a Kanban board, a visual tool for managing workflows and tracking tasks through stages like "To Do," "In Progress," and "Done." It helps teams quickly see the status of tasks and improve task flow.
+The default view here is a Kanban board, a visual tool for managing workflows and tracking tasks through stages like "To Do", "In Progress," and "Done." It helps teams quickly see the status of tasks and improve task flow.
 
 ![](photos/10-view.jpg)
 
+###### Lists
+
 The board consists of **Lists**. Each list represents a stage in the workflow. Typically, there are three lists: To Do, In Progress, and Done. However, you can rename, reorder, or add new lists by double-clicking on their names or dragging them.
+
+###### Cards
 
 Each list consists of  **Cards**. Each card represents a task within a project. Click **Add a card** to name and create a new card. We’ll explain more about card options in detail later.
 
@@ -169,7 +178,7 @@ Copy list | Create a duplicate of the list by entering a new name and clicking C
 Move list | Move the list to a different position.
 Move all cards in this list | Transfer all cards to another list.
 Sort by | Organize cards by date, name, etc.
-Automation | Set automation options for this list
+Automation | Set automation options for this list.
 Archive | Archive the list, making it disappear from the board and moving it to the archived space.
 
 Finally, let’s talk about Cards. Cards represent tasks or individual items within a project. Instead of using the small edit icon beside each card’s name, simply click on the card to open its detailed view, which includes several options:
