@@ -1,0 +1,742 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Personal Calendar" id="IsxVz8-Xf4DjLF_duilz">
+    <mxGraphModel dx="2993" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3600" pageHeight="1800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="342" y="550" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-3" value="Calendar" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="342" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-4" target="GNYwGQDYNVE5GSD1HZfe-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="397" y="613" />
+              <mxPoint x="462" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="372" y="630" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="437" y="620" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="437" y="570" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="437" y="670" width="50" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="502" y="580" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-10" value="Monday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="372" y="556" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-11" value="Tuesday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="437" y="556" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-12" value="Wednesday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="502" y="556" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-13" value="09:00&lt;br&gt;10:00&lt;br&gt;11:00&lt;br&gt;12:00&lt;br&gt;13:00&lt;br&gt;14:00&lt;br&gt;15:00&lt;br&gt;16:00&lt;br&gt;17:00&lt;br&gt;18:00&lt;br&gt;19:00&lt;br&gt;20:00&lt;br&gt;21:00&lt;div&gt;22:00&lt;/div&gt;&lt;div&gt;23:00&lt;/div&gt;&lt;div&gt;24:00&lt;/div&gt;" style="text;align=left;verticalAlign=top;rounded=0;fontStyle=0;fontSize=6;horizontal=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="562" width="30" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-15" target="GNYwGQDYNVE5GSD1HZfe-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="720" />
+              <mxPoint x="397" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="337" y="750" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-16" value="Task" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="337" y="730" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-17" value="Do Homework" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="346" y="760" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-18" value="&lt;font style=&quot;font-size: 16px; font-weight: normal; line-height: 40%;&quot;&gt;- Solve math questions and tests&lt;/font&gt;&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;font style=&quot;font-size: 16px; font-weight: normal; line-height: 40%;&quot;&gt;- Review the handout&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="778" width="236" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-20" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;until Wednesday 14:30&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="863" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="502" y="610" width="50" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="346" y="839" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-23" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;shared with Alice&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="835.5" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-24" target="GNYwGQDYNVE5GSD1HZfe-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="662" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="737" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="612" y="750" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-25" value="Hand In Homework" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="621" y="760" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-26" value="&lt;span style=&quot;font-size: 16px; font-weight: 400;&quot;&gt;Submit the homework to TA.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="778" width="236" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-27" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Wednesday 14:30&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="823" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-28" value="Point Task" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="612" y="730" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="626.75" width="45" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-32" value="Task" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="45" y="180" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-33" value="Event" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="45" y="344.12" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-34" value="Time-bound (Task)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#6c8ebf, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-35" value="Multi-day (Habit)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#82b366, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-36" value="Time-specific (Point Task)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#9673a6, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-37" value="Time-bound (Event)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#d79b00, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="371.37" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-38" value="Multi-day (Long Event)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#404040, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="401.37" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-39" value="Time-specific (Reminder)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;fontColor=light-dark(#c06461, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="150" y="341.37" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Tasks are doable&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=24;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="45" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-43" value="e.g. Do homework from 1 p.m. to 3 p.m." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-44" value="e.g. Don&#39;t smoke for 4 days." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-45" value="e.g. Call Bob at 5 p.m." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-46" value="e.g. Math class from 2 to 4." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="371.37" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-47" value="e.g. Holiday is going to last for 3 days." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="401.37" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-48" value="e.g. Robert is going to come home at 9 p.m." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="341.37" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Events happen without user&#39;s intervention&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=24;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="45" y="314.12" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-62" target="GNYwGQDYNVE5GSD1HZfe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="670" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-63" value="YT Subscription Is Gonna End!" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="59" y="680" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-65" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Tuesday 22:50&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="57" y="750" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-66" value="Reminder" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="650" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-69" target="GNYwGQDYNVE5GSD1HZfe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="490" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-70" value="Event" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-71" value="Math Class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="729" y="500" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-74" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="729" y="533.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-75" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;shared with Robert&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="755" y="530" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-78" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-78" target="GNYwGQDYNVE5GSD1HZfe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-81" value="This is a simple example of point tasks, tasks, reminders, and events in action." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-82" target="GNYwGQDYNVE5GSD1HZfe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-82" value="Alice" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="130" y="819" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-84" target="GNYwGQDYNVE5GSD1HZfe-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-84" value="Robert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="881" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-86" value="Background Tasks or Events" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="59" y="1010" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-87" value="Some tasks or events could be marked as background. The effect it would have is:&lt;div&gt;- UI could deprioritize its appearance&lt;/div&gt;&lt;div&gt;- AI could recommend better plans (primary tasks should not overlap, but background ones could)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="57" y="1040" width="443" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="593" y="1020" width="187" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="613.63" y="1036.69" width="145.75" height="53.31" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="613.62" y="1100" width="145.75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-91" target="GNYwGQDYNVE5GSD1HZfe-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1130" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-92" value="Check Email" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="826" y="1141" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="820" y="930" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-97" value="Wait for Doctor&#39;s Appointment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="829" y="955" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-100" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;background&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="829" y="1009.69" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-95" target="GNYwGQDYNVE5GSD1HZfe-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-103" target="GNYwGQDYNVE5GSD1HZfe-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1060" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-104" value="Read Book: Child 44" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="826" y="1072" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-106" value="Splitted Tasks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1290" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-107" value="One Task could be splitted into multiple parts to be planned separately.&lt;div&gt;This could be useful for:&lt;/div&gt;&lt;div&gt;- One place to edit the details&lt;/div&gt;&lt;div&gt;- Plannings based on time cap for each task (good for splitting a large task into smaller parts e.g. course)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1320" width="443" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-108" target="GNYwGQDYNVE5GSD1HZfe-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-108" target="GNYwGQDYNVE5GSD1HZfe-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-108" target="GNYwGQDYNVE5GSD1HZfe-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-108" target="GNYwGQDYNVE5GSD1HZfe-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1280" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-109" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="852" y="1280" width="188" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="852" y="1320" width="188" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-111" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="852" y="1380" width="188" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="852" y="1410" width="188" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-117" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Introduction&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="461" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-118" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Sharing&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="50" width="461" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-119" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="326.37" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-120" value="Calendar" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1350" y="306.37" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-122" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="406.37" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="396.37" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="346.37" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="446.37" width="50" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="356.37" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-127" value="Monday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="332.37" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-128" value="Tuesday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="332.37" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-129" value="Wednesday" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="332.37" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-130" value="09:00&lt;br&gt;10:00&lt;br&gt;11:00&lt;br&gt;12:00&lt;br&gt;13:00&lt;br&gt;14:00&lt;br&gt;15:00&lt;br&gt;16:00&lt;br&gt;17:00&lt;br&gt;18:00&lt;br&gt;19:00&lt;br&gt;20:00&lt;br&gt;21:00&lt;div&gt;22:00&lt;/div&gt;&lt;div&gt;23:00&lt;/div&gt;&lt;div&gt;24:00&lt;/div&gt;" style="text;align=left;verticalAlign=top;rounded=0;fontStyle=0;fontSize=6;horizontal=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="338.37" width="30" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="386.37" width="50" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-132" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1447.5" y="403.12" width="45" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-133" value="You can share the whole calendar with anyone that is: 1. in your friends list 2- you have explicitly selected them to share the calendar with them" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="171.37" width="516" height="94.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-134" target="GNYwGQDYNVE5GSD1HZfe-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-134" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="366.37" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-138" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="269.55" width="200" height="253.63" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-139" value="Friends List" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1700" y="249.55" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-140" target="GNYwGQDYNVE5GSD1HZfe-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-140" value="Judy" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="286.37" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-141" value="Alex" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-142" value="Alice" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="286.37" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-143" value="Robert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="260" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-151" value="From: 2025-01-01&lt;div&gt;To: 2026-06-15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1460" y="269" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-152" value="In the example below, Judy can see all tasks and events that have been created by or shared with User.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;There are a few exceptions though:&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1- Hidden tasks or events are hidden and Judy can&#39;t see them&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2- Tasks that have been created in a workspace and assigned to a user will not have all the information to Judy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Shares could have time limitations, You can share a time slice of your calendar with the person. E.g. You can share a month&#39;s worth of tasks and events with a person and they won&#39;t be able to see before or after.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="171.37" width="406" height="358.63" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-153" value="Friends" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="626.75" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-154" value="In Qwest you have a username and a user profile. Other people can find you and send friend requests to you. You can accept their request and become friends or just reject them and remove their request.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The reason we have chosen friend request system instead of follower/followee system is that we want to keep this system focused on increasing the productivity.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="665.12" width="516" height="194.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-141" target="GNYwGQDYNVE5GSD1HZfe-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="512" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-160" value="All Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1480" y="520" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-162" value="Public Calendars" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="626.75" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-163" value="Users can create calendars other than their own private calendars. These calendars are public and shareable. The use case would be having a calendar that has &lt;b&gt;national events of Iran &lt;/b&gt;and other users could add this calendar to their own calendar to see the events.&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Friends%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontStyle%3D1%3BfontSize%3D24%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221200%22%20y%3D%22626.75%22%20width%3D%22461%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22In%20Qwest%20you%20have%20a%20username%20and%20a%20user%20profile.%20Other%20people%20can%20find%20you%20and%20send%20friend%20requests%20to%20you.%20You%20can%20accept%20their%20request%20and%20become%20friends%20or%20just%20reject%20them%20and%20remove%20their%20request.%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BThe%20reason%20we%20have%20chosen%20friend%20request%20system%20instead%20of%20follower%2Ffollowee%20system%20is%20that%20we%20want%20to%20keep%20this%20system%20focused%20on%20increasing%20the%20productivity.%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontStyle%3D0%3BfontSize%3D18%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221200%22%20y%3D%22665.12%22%20width%3D%22516%22%20height%3D%22194.88%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;b&gt;a&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="665.12" width="516" height="124.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-164" value="Direct Shares" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="896.75" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-165" value="You can share a single task with one friend or more.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="935.12" width="516" height="34.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-166" value="Java Course" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="596.5" y="1290" width="217" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-167" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;4 hours&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="596.5" y="1453" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-168" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="596.5" y="1429" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-169" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;shared with Alice&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="1425.5" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="1020" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-172" value="Math Class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="1030" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-173" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="1063.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-174" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;shared with Robert&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1060" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-175" target="GNYwGQDYNVE5GSD1HZfe-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-175" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1030" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-178" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1130" width="245" height="111.81" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-177" target="GNYwGQDYNVE5GSD1HZfe-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1355" y="1120" />
+              <mxPoint x="1430" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-177" value="Robert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1155.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-180" value="Alex" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1155.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-181" value="Elliot" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1155.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-183" value="Tag Shares" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="896.75" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-184" value="You can share a single task with tags. You can add friends to your tags and they would automatically be added to your task or event&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="935.12" width="516" height="74.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-185" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1915" y="1020" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-186" value="Math Class" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1924" y="1030" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-190" target="GNYwGQDYNVE5GSD1HZfe-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-190" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1030" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-191" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1180" width="245" height="111.81" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-193" value="Robert" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="1205.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-195" target="GNYwGQDYNVE5GSD1HZfe-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-195" target="GNYwGQDYNVE5GSD1HZfe-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-195" value="Elliot" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="1205.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-196" value="courses-math&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1924" y="1072" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-197" target="GNYwGQDYNVE5GSD1HZfe-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-197" value="courses-math&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="1130" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-198" value="gaming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="1130" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-199" value="programming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1130" width="86" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-200" value="courses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="2146" y="1130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.141;entryY=1.124;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-193" target="GNYwGQDYNVE5GSD1HZfe-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1965" y="1170" />
+              <mxPoint x="1892" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.299;entryY=1.103;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-194" target="GNYwGQDYNVE5GSD1HZfe-197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2035" y="1170" />
+              <mxPoint x="1906" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-193" target="GNYwGQDYNVE5GSD1HZfe-198">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2008" y="1236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-194" value="Alex" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1205.91" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-209" value="Communities" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1375" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-211" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-212" value="The simple idea is that users can create channels that they can post taks or events and other users can subscribe to these communities to get in touch with mind alike people and increase their productivity in the times of burnout." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1410" width="516" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-213" value="Social Media" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1595" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-214" value="qwest version 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1570" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-215" value="The idea is that users can post about their work, task, getting things done, and so on. Would require chatting capabilities and news feed. Might end up a place like LinkedIn, so we should think of ways to keep this concise and healthy." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1630" width="516" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-216" value="Sharing Policy: Who owns the data?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1375" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-217" value="In sharing scenarios, this question often gets asked that who owns the data?&lt;div&gt;For example, User has shared a task with Judy, and Judy can see that task in her calendar as well. What happens if user deletes that task after a while or removes Judy from their friends list? Would Judy lose that task or event&#39;s data as well?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Well the answer is if the task or event&#39;s time has passed, no she should not lose that data because that is part of her past. She shouldn&#39;t return to a year ago and see a blank slot and wonder what was she doing at that time.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="1410" width="516" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-218" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="595" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-219" value="Private Calendar Share" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="150" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-220" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="52" y="1260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-221" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Planning&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="50" width="461" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-222" value="You can define tasks and events that don&#39;t have any time boundary on them. This will help you with defining all the future tasks without worrying about where to put them on the calendar." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="611.49" width="516" height="94.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-223" value="Defining tasks and events for the future" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="582.56" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-224" value="Drafting tasks and events" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="757.86" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-225" value="Even after you have put a time boundary on a task, you can draft it. This will cause it not to publish on your calendar so you can decide about it later." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="783.9300000000001" width="516" height="94.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-226" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="550" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-227" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="726.37" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-228" value="AI to the rescue" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="582.56" width="461" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-230" value="AI can help you plan with all your tasks that you have in your backlog. It will try to give you the most productive plan based on task priorities, durations, the free time that you have, and your performance history." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="611.49" width="516" height="94.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-231" value="qwest version 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="550" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-232" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="143.37" width="700" height="368.63" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-234" value="personal backlog" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="160.19" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-237" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="192.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-238" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="216.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-239" value="other workspaces" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="360.19" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-240" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="241.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-241" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="265.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-242" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="290.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-243" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="315.06" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-244" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="391.19" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-245" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="413.82" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-246" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="435.82" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-247" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="457.82" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-248" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="480.69" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-251" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=0;fontColor=light-dark(#6e90c1, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3057" y="158.81" width="160" height="341.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-249" value="Monday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3057" y="160.19" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-252" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=0;fontColor=light-dark(#ba5753, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3217" y="158.81" width="160" height="341.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-253" value="Tuesday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3217" y="160.19" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-254" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;glass=0;shadow=0;fontColor=light-dark(#d89c05, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3377" y="158.81" width="160" height="341.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-255" value="Wednesday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3377" y="160.19" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-256" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3062" y="200.56" width="150" height="59.44" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-237" target="GNYwGQDYNVE5GSD1HZfe-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-258" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3222" y="348.3" width="150" height="16.13" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GNYwGQDYNVE5GSD1HZfe-243" target="GNYwGQDYNVE5GSD1HZfe-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-260" value="Planning brings together all your tasks and events from all workspaces and personal calendar.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In this section you can view all your tasks and events in a list and you can start putting them on calendar.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;You can also view other calendars that you are part of (shared private calendars or public calendars) and also the tasks and events that have been shared with you.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="145.12" width="370" height="274.88" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-261" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3222" y="200.56" width="150" height="89.44" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-262" value="&lt;font style=&quot;font-size: 10px; line-height: 60%;&quot;&gt;Event that has been shared&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fontColor=light-dark(#d89c05, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3222" y="289.93" width="140" height="19.44" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-263" value="&lt;font style=&quot;font-size: 10px; line-height: 60%;&quot;&gt;Drafted Reminder&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fontColor=light-dark(#ba5753, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3222" y="364.43" width="140" height="19.44" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-264" value="&lt;font style=&quot;font-size: 10px; line-height: 60%;&quot;&gt;Drafted Task&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=12;fontColor=light-dark(#6e90c1, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="3062" y="260" width="140" height="19.44" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-265" value="Accounting" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1065" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-267" value="You can define rate or a fixed amount for tasks or events and Qwest can calculate your income and expenses." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1100" width="516" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-269" value="QQL (Qwest Query Language)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1225" width="458" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-270" value="QQL can help you query your own data and gather everything you need. Like how much time you have spent on a specific task or what friends have halped you with tasks of a specific tag and so on.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1260" width="516" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-271" value="qwest version 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2462" y="1200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-272" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2462" y="1040" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-273" value="Journaling" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1595" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-274" value="Each day can have an entry for journaling and AI can help you along the way to get quickly done with summing up the day." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1625" width="440" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-275" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;Misc&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="930" width="461" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-276" value="Templates and Bulk Update" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1595" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-277" value="To save time, you can define templates and initiate bulk updates like removing tasks for an entire week and so on." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1625" width="440" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-278" value="Integrating with Other Calendar Services" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="3021" y="1065" width="469" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-279" value="Import other calendars into Qwest. This might come with a set of restrictions because Qwest is providing features that are not standard and this could cause problems." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3021" y="1100" width="516" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-280" value="qwest version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3023" y="1040" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-281" value="AI Assistant Chatbot" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="3023" y="1225" width="469" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-282" value="This chatbot can help users to do their things faster, like defining tasks and events based upon a week ago or get users QQLs to get statistics." style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="3023" y="1260" width="516" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GNYwGQDYNVE5GSD1HZfe-284" value="qwest version 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3023" y="1200" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
